@@ -2,13 +2,17 @@
 
 This project is designed to manage financial information
 
-## Technologies Involved
+## [Click here](https://ec-dvk.web.app)([https://ec-dvk.web.app](https://ec-dvk.web.app)) to access the Website -- hosted at Firebase
 
-### Frontend : ReactJS
+## Libraries Involved
 
-### Backend : NodeJS
-
-### Database : MongoDB
+### `React`  
+### `Material UI`
+### `Axios`
+### `Notistack`
+### `React Hook Form`
+### `React Router`
+### `Yup`
 
 ## Available Scripts
 
